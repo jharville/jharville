@@ -1,22 +1,22 @@
                                               
                                        *@@@@@@@@@@:                  Joey-Harville                            
-                                  =#@@@@@@@@@@@@@@@@@@@              _____________                                
-                               @@@@@@@%@@#**%@@@@@@@@@@@@@           OS: macOS, Windows 10                    
-                             @@@@@@@-:@@%@@@*=*@@@@%@@@@#+@@@        Uptime: 28 years                     
-                          @@@@%%@@@#@@ =@%@@@@@@@#@%@@:-@@#*@@@      Host: Wilson Central                     
-                        @@@*%@@.*@*+.@**@@@@@@@@++@@@@@. .#@%@@@     Kernal: Computer, Audio, Mechanical Engineering                          
-                      .@@*@@@:@=..@ @#+@#@@@#- *%#+@*%@@@@@*##%@:    IDE: VSCode                       
-                     @@@@@@+.-@@  #*:%@%=+:.@+-.%@%@@@+%@**@@@%@@                    
-                    -@@%@%: :*=-.  @@@@@@#+#@@@@*#@%#*@@@@%#*@**@    Languages.Programming: JavaScript                        
-                    @@@@#@@ =. -: :.#@@#+@@#=+=#@+-#=@#@@@@@@@*:@    Languages.Computer: HTML, CSS, Markdown                   
-                   @@*#@@@@--= .# .%@-:::=-+=@@@@@@@@@@@@@@@@@=*@    Languages.Real: English, Spanish (Conversational)                       
-                   @@@@@@@%.+=.+=@:%..#:#@*-=-+#%@@@@@@@@@@@@@++@@                       
-                   @@#@@@@.=%. .-:#@. :-.*@@@@@@@@@@@@@@@@@@@%..@@   Hobbies.Software: Creating Music, Modding Video Games                  
-                   @@#@@+. @ * .%**-       .%%#=-::.::::--###@@.@@   Hobbies.Hardware: Building literally anything                      
-                   @%@#=::-@  @@@@#@@@@@@@@@@%@@@%+=+*#@@@@@@=:@@@                        
-                   @@+  :**        .            .:=%@@%@@%%@%@.-@    Contact: josephharville@gmail.com                       
-                   @@=@#+=  @@@@%+- -@@@@@@@@@@-*@@@@@@@@@@@@@@@@@@  LinkedIn: joseph harville                         
-                   @@@#*%@@-@@+              @@-@@@@%           @@@                      
+                                  =#@@@@@@@@@@@@@@@@@@@              _____________                          
+                               @@@@@@@%@@#**%@@@@@@@@@@@@@                         
+                             @@@@@@@-:@@%@@@*=*@@@@%@@@@#+@@@        OS: macOS, Windows 10                        
+                          @@@@%%@@@#@@ =@%@@@@@@@#@%@@:-@@#*@@@      Uptime: 28 years                     
+                        @@@*%@@.*@*+.@**@@@@@@@@++@@@@@. .#@%@@@     Host: Wilson Central                          
+                      .@@*@@@:@=..@ @#+@#@@@#- *%#+@*%@@@@@*##%@:    Kernal: Computer, Audio, Mechanical Engineering                           
+                     @@@@@@+.-@@  #*:%@%=+:.@+-.%@%@@@+%@**@@@%@@    IDE: VSCode                 
+                    -@@%@%: :*=-.  @@@@@@#+#@@@@*#@%#*@@@@%#*@**@                          
+                    @@@@#@@ =. -: :.#@@#+@@#=+=#@+-#=@#@@@@@@@*:@    Languages.Programming: JavaScript                 
+                   @@*#@@@@--= .# .%@-:::=-+=@@@@@@@@@@@@@@@@@=*@    Languages.Computer: HTML, CSS, Markdown                      
+                   @@@@@@@%.+=.+=@:%..#:#@*-=-+#%@@@@@@@@@@@@@++@@   Languages.Real: English, Spanish (Conversational)                     
+                   @@#@@@@.=%. .-:#@. :-.*@@@@@@@@@@@@@@@@@@@%..@@                
+                   @@#@@+. @ * .%**-       .%%#=-::.::::--###@@.@@   Hobbies.Software: Creating Music, Modding Video Games                        
+                   @%@#=::-@  @@@@#@@@@@@@@@@%@@@%+=+*#@@@@@@=:@@@   Hobbies.Hardware: Building literally anything                      
+                   @@+  :**        .            .:=%@@%@@%%@%@.-@                      
+                   @@=@#+=  @@@@%+- -@@@@@@@@@@-*@@@@@@@@@@@@@@@@@@  Contact: josephharville@gmail.com                         
+                   @@@#*%@@-@@+              @@-@@@@%           @@@  LinkedIn: joseph harville                       
                    # @**@    .             .@@@  #@@@         -%@.@                       
                    #  :@@    =             ..@   #@@           -.@                       
                    #-  ::  ..@%@@@@@+==:@@ %@    :@.%%@%#+**#@ @@@                        
