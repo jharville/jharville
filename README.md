@@ -12,7 +12,7 @@
                    @@*#@@@@--= .# .%@-:::=-+=@@@@@@@@@@@@@@@@@=*@    Languages.Computer: HTML, CSS, Markdown                      
                    @@@@@@@%.+=.+=@:%..#:#@*-=-+#%@@@@@@@@@@@@@++@@   Languages.Real: English, Spanish (Conversational)                     
                    @@#@@@@.=%. .-:#@. :-.*@@@@@@@@@@@@@@@@@@@%..@@                
-                   @@#@@+. @ * .%**-       .%%#=-::.::::--###@@.@@   Hobbies.Software: Creating Music, Modding Video Games                        
+                   @@#@@+. @ * .%**-       .%%#=-::.::::--###@@.@@   Hobbies.Software: Creating Music, Modding Games                        
                    @%@#=::-@  @@@@#@@@@@@@@@@%@@@%+=+*#@@@@@@=:@@@   Hobbies.Hardware: Building literally anything                      
                    @@+  :**        .            .:=%@@%@@%%@%@.-@                      
                    @@=@#+=  @@@@%+- -@@@@@@@@@@-*@@@@@@@@@@@@@@@@@@  Contact: josephharville@gmail.com                         
