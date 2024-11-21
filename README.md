@@ -13,7 +13,7 @@
                    @@@@@@@%.+=.+=@:%..#:#@*-=-+#%@@@@@@@@@@@@@++@@   Languages.Real: English, Spanish (Conversational)                     
                    @@#@@@@.=%. .-:#@. :-.*@@@@@@@@@@@@@@@@@@@%..@@                
                    @@#@@+. @ * .%**-       .%%#=-::.::::--###@@.@@   Hobbies.Software: Creating Music, Modding Games                        
-                   @%@#=::-@  @@@@#@@@@@@@@@@%@@@%+=+*#@@@@@@=:@@@   Hobbies.Hardware: Woodworking, Cars, Buying music gear                     
+                   @%@#=::-@  @@@@#@@@@@@@@@@%@@@%+=+*#@@@@@@=:@@@   Hobbies.Hardware: Woodworking, Music, Cars                   
                    @@+  :**        .            .:=%@@%@@%%@%@.-@                      
                    @@=@#+=  @@@@%+- -@@@@@@@@@@-*@@@@@@@@@@@@@@@@@@  Contact: josephharville@gmail.com                         
                    @@@#*%@@-@@+              @@-@@@@%           @@@  LinkedIn: joseph harville                       
